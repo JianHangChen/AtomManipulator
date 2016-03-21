@@ -1,3 +1,4 @@
+//feature123改了改了
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
 // Used by AtomManipulator.rc
